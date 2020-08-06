@@ -24,10 +24,7 @@ I'm a minimalist who is passionate about coding. I'm a self-taught HTML & CSS ba
 ---
 
 <img align="left" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaroPpo&show_icons=true" />
-<br />
-<br />
-<img align="left" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaroPpo&layout=compact" />
-<img align="center" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GaroPpo&repo=Backup-Restore-MySQL-Using-VB.Net" />
+<img align="left" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaroPpo" />
 
 <!--
 **GaroPpo/GaroPpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
