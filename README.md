@@ -3,7 +3,6 @@
 I'm a minimalist who is passionate about coding. I'm a self-taught HTML & CSS back on 2010 during my first year in Senior High School, when I started my first blog. On 2020, I decide to focus more on coding to improve my skills and learning some programming technologies, framework and more. Last but not least, I appreciate your time for a visit on my profile, although there's nothing special here so far 😄. Looking forward to add more project on my GitHub! ✌️ Cheers from Indonesia!
 
 - 🌱 I’m currently learning everything
-- ⚡ Fun fact: Minimalist and CS:GO Player. [Add me on Steam, and let's play together sometimes](https://steamcommunity.com/id/GaroPpo/)
 
 ---
 
