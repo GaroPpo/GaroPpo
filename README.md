@@ -13,4 +13,4 @@ Last but not least, I appreciate your time for a visit on my profile, although t
 ---
 
 <img align="left" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaroPpo&show_icons=true" />
-<img align="left" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaroPpo" /
+<img align="left" alt="GaroPpo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaroPpo" />
